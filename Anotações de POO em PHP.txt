@@ -1,0 +1,17 @@
+Aula 3 Visibilidade
+public
+A classe atual e todas as outras classes
+private
+Somente a classe atual
+protected
+A classe atual e todas as suas sub-classes
+
+Aula 4 Métodos especiais
+e = new estante()
+t = e.getTotDoc() Esse método é melhor pois ele garante bem mais segurnaça
+t = etotDoc() Esse método é mais rapido porem menos seguro 
+
+Adicionar Métodos
+e = new estante()
+e.totDoc = e.totDoc (Moda Antiga)
+e.setTotDoc(doc)
